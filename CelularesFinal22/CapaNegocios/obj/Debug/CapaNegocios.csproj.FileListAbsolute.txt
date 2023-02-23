@@ -1,0 +1,12 @@
+C:\Users\Gabriel\Source\Repos\CelularesFinal22\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\Gabriel\Source\Repos\CelularesFinal22\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\Gabriel\Source\Repos\CelularesFinal22\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\Gabriel\Source\Repos\CelularesFinal22\CapaNegocios\bin\Debug\Entidades.dll
+C:\Users\Gabriel\Source\Repos\CelularesFinal22\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\Gabriel\Source\Repos\CelularesFinal22\CapaNegocios\bin\Debug\CapaDatos.dll.config
+C:\Users\Gabriel\Source\Repos\CelularesFinal22\CapaNegocios\bin\Debug\Entidades.pdb
+C:\Users\Gabriel\Source\Repos\CelularesFinal22\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Source\Repos\CelularesFinal22\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Source\Repos\CelularesFinal22\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+C:\Users\Gabriel\Source\Repos\CelularesFinal22\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\Gabriel\Source\Repos\CelularesFinal22\CapaNegocios\obj\Debug\CapaNegocios.pdb

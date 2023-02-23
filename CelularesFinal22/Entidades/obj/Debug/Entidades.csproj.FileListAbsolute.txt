@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Source\Repos\CelularesFinal22\Entidades\bin\Debug\Entidades.dll
+C:\Users\Gabriel\Source\Repos\CelularesFinal22\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Gabriel\Source\Repos\CelularesFinal22\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Source\Repos\CelularesFinal22\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Source\Repos\CelularesFinal22\Entidades\obj\Debug\Entidades.dll
+C:\Users\Gabriel\Source\Repos\CelularesFinal22\Entidades\obj\Debug\Entidades.pdb
